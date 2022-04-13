@@ -2,18 +2,11 @@
     scroll-behavior: smooth;
     --primary-theme-color: #7bd860;
     --secondary-theme-color: #ffffff;
-    --text-color: #fff;
-    --primary-shadow-color: #8888;
-    --secondary-shadow-color: #21242c80;
     --button-color: #61dafb;
-    --button-color-active: #fff;
-    --button-text-color: #000;
     --primary-highlight: #61dafb;
-    --secondary-highlight: #ffd700;
     --padding-section: 2em 0;
     --padding-container: 0 2em;
     --max-width-container: 1024px;
-    --border-radius: 0.5rem;
     --all-transitions: all 0.25s;
     --letter-color-1: #00bef8;
     --letter-color-2: #ff0697;
@@ -67,7 +60,7 @@
     transition: var(--all-transitions);
 }
 .cover__name__letter:hover{
-    filter: brightness(200%);
+    filter: brightness(250%);
 }
 .cover__name__letter:nth-child(1){
     color: var(--letter-color-1);

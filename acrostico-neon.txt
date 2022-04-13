@@ -3,4 +3,11 @@ Etiqueta SPAN --> usarlo para darle un estilo diferente al texto
 -Si deseas crear el css, se le tiene que dar un id a cada uno y darle los estilos en un css externo.
 -text-decoration: none; para quitar el subrayado de los anchor
 -.cover__name__letter:nth-child(n+2) --> para que seleccione desde el segundo elemento en adelante
+
 - Un position absolute, va de la mano con un relative.
+
+-animation siempre con un keyframe
+-animation: zoom 2s ease-in-out -1s infinite alternate;
+zoom: nombre de la animación.
+2s: cuando demora la animacion.
+ease-in-out: efecto.

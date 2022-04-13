@@ -1,0 +1,6 @@
+Etiqueta SPAN --> usarlo para darle un estilo diferente al texto
+-Estamos dando el css, dentro del html para que se le dé estilo a cada uno de los spam
+-Si deseas crear el css, se le tiene que dar un id a cada uno y darle los estilos en un css externo.
+-text-decoration: none; para quitar el subrayado de los anchor
+-.cover__name__letter:nth-child(n+2) --> para que seleccione desde el segundo elemento en adelante
+- Un position absolute, va de la mano con un relative.

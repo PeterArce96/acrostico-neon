@@ -91,7 +91,7 @@
     filter: blur(0.25rem);
     transform: rotateX(125deg); 
 }
-.acrostic{
+/* .acrostic{
     padding: var(--padding-section);
 }
 .acrostic__stanza{
@@ -117,7 +117,7 @@
 .acrostic__verse::first-letter{
     font-size: 2rem;
     color: var(--letter-color-4);
-}
+} */
 
 
 @media (min-width:854px){
